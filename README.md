@@ -75,10 +75,10 @@ The major cloud providers by market share are:
 
 ### 4 Pillars of DevOps
 
-1. **Culture**: Promoting collaboration and communication between development and operations teams.
-2. **Automation**: Automating manual processes for efficiency.
-3. **Measurement and Sharing**: Gathering data to make informed decisions and sharing knowledge.
-4. **Feedback**: Continuous feedback and improvement cycles.
+1. **Ease of use**: Is it easy use?
+2. **Flexibility**: Industry changes at a fast rate, so don't make systems that are too dependent on one service
+3. **Robustness**: Uptime, can we get as close to 99.9% as possible
+4. **Cost**: How can we be as cost effective as possible?
 
 DevOps and the cloud are closely linked as cloud services facilitate automation and collaboration, aligning with DevOps principles.
 
