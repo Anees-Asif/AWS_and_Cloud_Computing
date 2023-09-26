@@ -22,7 +22,7 @@ Cloud computing enables various functionalities, such as:
 
 ### What is "On-Prem"?
 
-"On-Prem" (On-Premises) refers to traditional computing systems where hardware and software are deployed within a company's physical location, rather than using cloud services.
+"On-Prem" (On-Premises) refers to the more traditional computing systems where hardware and software are deployed within a company's physical location, rather than using cloud services.
 
 ### 4 Types of Cloud
 
@@ -36,7 +36,7 @@ Cloud computing enables various functionalities, such as:
 - **Infrastructure as a Service (IaaS)**: Offers virtualized computing resources.
 - **Platform as a Service (PaaS)**: Provides a platform and environment for application development.
 - **Software as a Service (SaaS)**: Delivers software applications over the internet.
-- **Function as a Service (FaaS)**: Executes code in response to events (serverless computing).
+- **Function as a Service (FaaS)**: Executes code in response to events.
 
 ### Advantages/Disadvantages of the Cloud (for Businesses)
 
@@ -61,14 +61,14 @@ Cloud computing enables various functionalities, such as:
 
 ### Market Share - Breakdown
 
-The major cloud providers by market share (as of my last update in September 2021) are:
+The major cloud providers by market share are:
 - **Amazon Web Services (AWS)**
 - **Microsoft Azure**
 - **Google Cloud Platform (GCP)**
 
 ### 3 Largest Cloud Providers
 
-- **AWS**: Known for extensive services and market dominance.
+- **AWS**: Known for extensive services and popularity
 - **Azure**: Popular for integration with Microsoft products and services.
 - **GCP**: Recognized for data analytics and machine learning capabilities.
 
@@ -88,5 +88,3 @@ DevOps and the cloud are closely linked as cloud services facilitate automation 
 2. **Spotify**: Utilized Google Cloud to handle data processing for music recommendations.
 
 3. **Airbnb**: Moved to AWS to ensure scalability during peak booking periods.
-
-Please note that for the most up-to-date information, you should check the latest sources as the cloud computing landscape may have evolved since my last update in September 2021.
