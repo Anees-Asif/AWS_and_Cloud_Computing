@@ -36,7 +36,8 @@ Cloud computing enables various functionalities, such as:
 - **Infrastructure as a Service (IaaS)**: Offers virtualized computing resources.
 - **Platform as a Service (PaaS)**: Provides a platform and environment for application development.
 - **Software as a Service (SaaS)**: Delivers software applications over the internet.
-- **Function as a Service (FaaS)**: Executes code in response to events.
+![Types of cloud service](https://www.executech.com/wp-content/uploads/2021/08/Iaas-paas-saas.jpg)
+
 
 ### Advantages/Disadvantages of the Cloud (for Businesses)
 
