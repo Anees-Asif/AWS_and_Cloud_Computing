@@ -45,3 +45,24 @@ Then to install nginx use `sudo apt install nginx -y` followed by `sudo systemct
 If you have followed these steps correctly, you can now visit the public ip address, as listed on your AWS instance page, and be greeted by the following: 
 
 ![Alt text](nginx_deployed.PNG)
+
+## Nginx
+
+Nginx is a popular open-source web server software known for its high performance and scalability. It is commonly used to serve web pages, applications, and content on the internet. Nginx can also function as a reverse proxy server and load balancer, making it a versatile tool for managing web traffic.
+
+### Key Features of Nginx:
+
+- Efficient handling of concurrent connections.
+- Excellent for serving static content and as a reverse proxy for dynamic content.
+- Supports SSL/TLS encryption for secure communication.
+- Configuration flexibility through a declarative language.
+
+## Web Server
+
+A web server is a software application or hardware device that processes incoming requests from clients (usually web browsers) and delivers web content in response. Its primary functions include:
+
+- Accepting incoming HTTP requests.
+- Locating and retrieving requested files or generating dynamic content.
+- Sending the content back to the requesting client.
+
+Web servers play a crucial role in making websites and web applications accessible over the internet. They are the foundation of the World Wide Web, handling the transmission of web pages, images, videos, and other resources to users' devices.
