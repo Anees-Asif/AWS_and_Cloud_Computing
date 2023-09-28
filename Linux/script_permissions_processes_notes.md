@@ -1,8 +1,3 @@
-`cd ..` - Go to parent folder. `cd .` is current folder
-
-`mv chicken-joke.txt bad-joke.txt` - Renames to bad-joke.txt
-
-
 ## Creating a script to install nginx
 
 `nano provision.sh` - Create shell script we will use, and open in nano text editor.
@@ -23,11 +18,11 @@
 
 ## Managing processes
 
-`ps` - Shows USERS processes, the ones we have started in the current session.
+`ps` - Shows USER processes, the ones we have started in the current session.
 
 **PID** - Process ID, unique identifier
 
-**TTY** - Terminal session that it is running within
+**TTY** - Terminal session that the process is running within
 
 `ps --help simple` - Will list all flags to use with the ps command
 
