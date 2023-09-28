@@ -1,13 +1,13 @@
 #!/bin/bash
-# update
+# Update
 sudo apt update
-# upgrade
+# Upgrade
 sudo apt upgrade -y
-# install nginx
+# Install nginx
 sudo apt install nginx -y
-# restart nginx
+# Restart nginx
 sudo systemctl restart nginx
-# enable nginx
+# Enable nginx
 sudo systemctl enable nginx
 
 # Clone the GitHub repo
