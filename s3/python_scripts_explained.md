@@ -130,6 +130,4 @@ s3 = boto3.client('s3', region_name='eu-west-1')
 
 # Delete the specified file from the S3 bucket
 s3.delete_object(Bucket=bucket_name, Key=s3_object_name)
-
-print(f"{s3_object_name} deleted from {bucket_name}.")
 ```
