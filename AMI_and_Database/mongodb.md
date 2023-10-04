@@ -13,9 +13,9 @@ Add an additional inbound rule like the following.
  ![](security_group.PNG)
 
 
-  Save the security group, so we can reuse it later, and launch the instance. 
+Save the security group, so we can reuse it later, and launch the instance. 
   
-  Open separate a gitbash terminal and connect to the new database instance using SSH
+Open separate a gitbash terminal and connect to the new database instance using SSH
 
  Once you're in, run the update and upgrade commands. These will ensure you have the latest versions of the packages.
 
