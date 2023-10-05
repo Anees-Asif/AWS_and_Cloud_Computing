@@ -39,3 +39,6 @@ We have now created an alarm that will notfiy us if the CPU usage exceeds 15%:
 
 ![](alarm_final.PNG)
 
+An example of the email you'll recieve if the alarm has gone off:
+
+![](email.PNG)
