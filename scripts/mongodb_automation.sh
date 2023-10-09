@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# Check if the script is run with sudo
-if [ "$EUID" -ne 0 ]; then
-    echo "Please run this script with sudo."
-    exit 1
-fi
-
 # Update and upgrade packages
 sudo apt update
 sudo apt upgrade -y
