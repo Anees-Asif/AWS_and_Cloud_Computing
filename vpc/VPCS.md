@@ -49,7 +49,7 @@ Add a new subnet, calling it private subnet but in zone 1b. But this time the su
 
 ![](subnet_settings.PNG)
  
-**step 3:**
+**Step 3:**
 
 Next, go to Internet Gateway and create a new gateway.
 
@@ -65,17 +65,17 @@ Create a public route tables and make sure to select the correct vpc.
 ![](public_rt.PNG)
 
 
-**step 5:**
+**Step 5:**
 
-association between route and subnet
+An association needs to be created between the route and the subnet
 
-subnet association - > edit
+To achieve this, while on the route table page, go to subnet association and edit explicit subnet associations
 
-For the public route table associate to public subnet
+For the route table associate to public subnet
 
 ![](subnet_association.PNG)
 
-**step 6:**
+**Step 6:**
 
 Go to route tab, and select edit route. Currently only allows local connections.
 We need to add one for the final destination, which could be anywhere. 
@@ -84,9 +84,9 @@ For the target select internet gateway, and select your gateway from the drop do
 
 ![](edit_route.PNG)
 
-**step7**
+**Step7: **
 
-Check if it is working, go to your vpc. 
+To check if everyting has been set up correctly, go to your vpc. 
 Resource map shows what is connected to your vpc.
 
 ![](resource_map.PNG)
@@ -115,7 +115,7 @@ Start the app instance with the following user data.
 #!/bin/bash
 
 # set up connection to db via environment variable db_host
-export DB_HOST=mongodb://10.0.3.217:27017/posts
+export DB_HOST=mongodb://34.244.190.80:27017/posts
 
 # install app
 cd /home/ubuntu/repo/app
